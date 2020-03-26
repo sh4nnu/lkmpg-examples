@@ -1,0 +1,5 @@
+kernel//home/vagrant/lkmpg-progs/hello-1/hello-1.ko
+kernel//home/vagrant/lkmpg-progs/hello-1/hello-2.ko
+kernel//home/vagrant/lkmpg-progs/hello-1/hello-4.ko
+kernel//home/vagrant/lkmpg-progs/hello-1/hello-5.ko
+kernel//home/vagrant/lkmpg-progs/hello-1/multi_module.ko

@@ -1,0 +1,1 @@
+cmd_/home/vagrant/lkmpg-progs/hello-1/hello-5.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vagrant/lkmpg-progs/hello-1/hello-5.ko /home/vagrant/lkmpg-progs/hello-1/hello-5.o /home/vagrant/lkmpg-progs/hello-1/hello-5.mod.o ;  true

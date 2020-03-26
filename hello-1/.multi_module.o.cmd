@@ -1,0 +1,1 @@
+cmd_/home/vagrant/lkmpg-progs/hello-1/multi_module.o := ld -m elf_x86_64   -r -o /home/vagrant/lkmpg-progs/hello-1/multi_module.o /home/vagrant/lkmpg-progs/hello-1/start_module.o /home/vagrant/lkmpg-progs/hello-1/end_module.o 
