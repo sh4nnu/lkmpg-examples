@@ -1,0 +1,1 @@
+cmd_/home/vagrant/lkmpg-progs/chrdev-drivers/chardev.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vagrant/lkmpg-progs/chrdev-drivers/chardev.ko /home/vagrant/lkmpg-progs/chrdev-drivers/chardev.o /home/vagrant/lkmpg-progs/chrdev-drivers/chardev.mod.o ;  true
